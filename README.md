@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Queiroz 👋
 
 - 🔭 Atualmente trabalho com Front-End
-- 🌱 Atualmente estudando Next.Js
+- 🌱 Atualmente estudando React Native
 - 📫 Email de contato: contato.gustavoqlima@gmail.com
 - 😄 Pronomes: Ele/dele
 
