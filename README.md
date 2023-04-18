@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Queiroz 👋
 
-- 🔭 Atualmente trabalho com Front-End
+- 🔭 Atualmente trabalho Full-Stack
 - 🌱 Atualmente estudando React Native
 - 📫 Email de contato: contato.gustavoqlima@gmail.com
 - 😄 Pronomes: Ele/dele
