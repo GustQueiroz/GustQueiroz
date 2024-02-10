@@ -8,7 +8,6 @@
   <a href="https://github.com/https://github.com/GustQueiroz">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GustQueiroz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustQueiroz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&exclude_repo=k-basic-ciphers" height="175" alt="languages graph"  />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustQueiroz&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 <div style="display: inline_block"><br>
