@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Queiroz 👋
 
 - 📱 Atualmente trabalho Full-Stack em aplicações mobile
-- 📖 Atualmente estudando Angular
+- 📖 Atualmente estudando NestJS
 - 📫 Email de contato: contato.gustavoqlima@gmail.com
 
 <div>
