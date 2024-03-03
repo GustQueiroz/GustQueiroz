@@ -3,6 +3,7 @@
 - 📱 Atualmente trabalho Full-Stack em aplicações mobile
 - 📖 Atualmente estudando NestJS
 - 📫 Email de contato: contato.gustavoqlima@gmail.com
+- 📄 Meu LinkedIn: https://www.linkedin.com/in/gust-queiroz/
 
 <div>
   <a href="https://github.com/https://github.com/GustQueiroz">
