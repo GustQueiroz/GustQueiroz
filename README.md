@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo Queiroz 👋
 
 - 📱 Atualmente trabalho Full-Stack em aplicações mobile
-- 📖 Atualmente estudando C#
+- 📖 Atualmente estudando C# & .NET
 - 📫 Email de contato: contato.gustavoqlima@gmail.com
 - 📄 Meu LinkedIn: https://www.linkedin.com/in/gust-queiroz/
 
