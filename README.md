@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Queiroz 👋
 
-- 📱 Atualmente trabalho Full-Stack em aplicações web e mobile
+- 📱 Atualmente trabalho Full-Stack em aplicações web
 - 📖 Atualmente estudando Ruby on Rails
 - 📫 Email de contato: contato.gustavoqlima@gmail.com
 - 📄 Meu LinkedIn: https://www.linkedin.com/in/gust-queiroz/
