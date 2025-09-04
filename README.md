@@ -4,6 +4,7 @@
 - 📖 Atualmente estudando Ruby on Rails
 - 📫 Email de contato: contato.gustavoqlima@gmail.com
 - 📄 Meu LinkedIn: https://www.linkedin.com/in/gust-queiroz/
+- 🃏 Criador: https://www.tocomentulho.com
 
 <div>
   <a href="https://github.com/https://github.com/GustQueiroz">
