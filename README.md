@@ -15,6 +15,24 @@ architecture — a hybrid ReBAC/RBAC model inspired by Google's Zanzibar.
 - [Load-Simulator](https://github.com/GustQueiroz/Load-Simulator) — interactive system design simulator: draw an architecture, push load, and watch bottlenecks and cost emerge in real time
 - [GBA-Emulator-in-Javascript](https://github.com/GustQueiroz/GBA-Emulator-in-Javascript) — Game Boy Advance emulator running in the browser
 
+  <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=GustQueiroz&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=GustQueiroz&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
+
+</p>
+
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
