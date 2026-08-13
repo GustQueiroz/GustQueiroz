@@ -27,14 +27,13 @@ architecture — a hybrid ReBAC/RBAC model inspired by Google's Zanzibar.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      style="margin-bottom: 20px;" 
+      height="200"
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=GustQueiroz&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
 </p>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; margin-top: 20px"><br>
 
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
