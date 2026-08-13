@@ -1,4 +1,4 @@
-# Hello i am Gustavo Queiroz 
+# Hi, I'm Gustavo Queiroz
 
 Software engineer focused on applied AI and system design for healthcare.
 
