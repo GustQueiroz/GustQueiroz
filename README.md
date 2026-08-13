@@ -15,8 +15,6 @@ architecture — a hybrid ReBAC/RBAC model inspired by Google's Zanzibar.
 - [Load-Simulator](https://github.com/GustQueiroz/Load-Simulator) — interactive system design simulator: draw an architecture, push load, and watch bottlenecks and cost emerge in real time
 - [GBA-Emulator-in-Javascript](https://github.com/GustQueiroz/GBA-Emulator-in-Javascript) — Game Boy Advance emulator running in the browser
 
-**Stack:** TypeScript, Node.js (NestJS), React, Next.js, Python, PostgreSQL, AWS
-
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -33,5 +31,6 @@ architecture — a hybrid ReBAC/RBAC model inspired by Google's Zanzibar.
   <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 
+  <div style="display: inline_block"><br>
 
 [LinkedIn](https://www.linkedin.com/in/gust-queiroz/) · contato.gustavoqlima@gmail.com
