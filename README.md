@@ -20,7 +20,7 @@ architecture — a hybrid ReBAC/RBAC model inspired by Google's Zanzibar.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"
+      height="400"
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=GustQueiroz&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
