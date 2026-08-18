@@ -8,12 +8,12 @@ sensitive-data masking (LGPD), and an end-to-end identity and access
 architecture: a hybrid ReBAC/RBAC model inspired by Google's Zanzibar.
 
 **Side products in production**
-- [To Com Entulho](https://www.tocomentulho.com) — marketplace for sustainable construction-debris removal
-- Crypto Forense — crypto-asset forensic tracing platform
+- [To Com Entulho](https://www.tocomentulho.com) — marketplace for sustainable construction-debris removal.
+- Crypto Forense — crypto-asset forensic tracing platform.
 
 **Highlights on this profile**
-- [Load-Simulator](https://github.com/GustQueiroz/Load-Simulator) — interactive system design simulator: draw an architecture, push load, and watch bottlenecks and cost emerge in real time
-- [GBA-Emulator-in-Javascript](https://github.com/GustQueiroz/GBA-Emulator-in-Javascript) — Game Boy Advance emulator running in the browser
+- [Load-Simulator](https://github.com/GustQueiroz/Load-Simulator) — interactive system design simulator: draw an architecture, push load, and watch bottlenecks and cost emerge in real time.
+- [GBA-Emulator-in-Javascript](https://github.com/GustQueiroz/GBA-Emulator-in-Javascript) — Game Boy Advance emulator running in the browser.
 
   <p>
 
